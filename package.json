@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Khim22.github.io/GraphQL-NationalDaySongs-Learning-",
+  "homepage": "https://Khim22.github.io/NDPSongs-GraphQL",
   "dependencies": {
     "apollo-boost": "^0.3.1",
     "apollo-cache-inmemory": "^1.6.2",
