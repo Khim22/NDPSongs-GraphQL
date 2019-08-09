@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NDPSongs-GraphQL/static/css/main.fe3db0c7.chunk.css",
-    "main.js": "/NDPSongs-GraphQL/static/js/main.01b513e2.chunk.js",
-    "main.js.map": "/NDPSongs-GraphQL/static/js/main.01b513e2.chunk.js.map",
+    "main.js": "/NDPSongs-GraphQL/static/js/main.0f37264b.chunk.js",
+    "main.js.map": "/NDPSongs-GraphQL/static/js/main.0f37264b.chunk.js.map",
     "runtime~main.js": "/NDPSongs-GraphQL/static/js/runtime~main.54fcdee8.js",
     "runtime~main.js.map": "/NDPSongs-GraphQL/static/js/runtime~main.54fcdee8.js.map",
-    "static/js/2.dceaa358.chunk.js": "/NDPSongs-GraphQL/static/js/2.dceaa358.chunk.js",
-    "static/js/2.dceaa358.chunk.js.map": "/NDPSongs-GraphQL/static/js/2.dceaa358.chunk.js.map",
+    "static/js/2.3e9c96eb.chunk.js": "/NDPSongs-GraphQL/static/js/2.3e9c96eb.chunk.js",
+    "static/js/2.3e9c96eb.chunk.js.map": "/NDPSongs-GraphQL/static/js/2.3e9c96eb.chunk.js.map",
     "index.html": "/NDPSongs-GraphQL/index.html",
-    "precache-manifest.e49f8b06268030b2f29b68b7cd950df8.js": "/NDPSongs-GraphQL/precache-manifest.e49f8b06268030b2f29b68b7cd950df8.js",
+    "precache-manifest.88f629fecb257c02bfb4d154c34ad6f2.js": "/NDPSongs-GraphQL/precache-manifest.88f629fecb257c02bfb4d154c34ad6f2.js",
     "service-worker.js": "/NDPSongs-GraphQL/service-worker.js",
     "static/css/main.fe3db0c7.chunk.css.map": "/NDPSongs-GraphQL/static/css/main.fe3db0c7.chunk.css.map"
   }
