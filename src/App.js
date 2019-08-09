@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ApolloClient, { InMemoryCache } from "apollo-boost";
 import { ApolloProvider } from "react-apollo";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 import "./App.css";
 import Main from "./components/pages/Main";
