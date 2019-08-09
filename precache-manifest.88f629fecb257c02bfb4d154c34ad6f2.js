@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1b4020f4f13b6077a15ee10b4e9a458",
+    "revision": "f42e1d959c2f827aa659e47b2dc9dc24",
     "url": "/NDPSongs-GraphQL/index.html"
   },
   {
-    "revision": "2aadf3fae3cbfb13adbf",
+    "revision": "e98ea02922746c56c997",
     "url": "/NDPSongs-GraphQL/static/css/main.fe3db0c7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NDPSongs-GraphQL/static/js/2.3e9c96eb.chunk.js"
   },
   {
-    "revision": "2aadf3fae3cbfb13adbf",
-    "url": "/NDPSongs-GraphQL/static/js/main.67f453ed.chunk.js"
+    "revision": "e98ea02922746c56c997",
+    "url": "/NDPSongs-GraphQL/static/js/main.0f37264b.chunk.js"
   },
   {
     "revision": "43835900a7488242c31c",

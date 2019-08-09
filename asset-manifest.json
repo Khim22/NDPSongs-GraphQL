@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NDPSongs-GraphQL/static/css/main.fe3db0c7.chunk.css",
-    "main.js": "/NDPSongs-GraphQL/static/js/main.67f453ed.chunk.js",
-    "main.js.map": "/NDPSongs-GraphQL/static/js/main.67f453ed.chunk.js.map",
+    "main.js": "/NDPSongs-GraphQL/static/js/main.0f37264b.chunk.js",
+    "main.js.map": "/NDPSongs-GraphQL/static/js/main.0f37264b.chunk.js.map",
     "runtime~main.js": "/NDPSongs-GraphQL/static/js/runtime~main.54fcdee8.js",
     "runtime~main.js.map": "/NDPSongs-GraphQL/static/js/runtime~main.54fcdee8.js.map",
     "static/js/2.3e9c96eb.chunk.js": "/NDPSongs-GraphQL/static/js/2.3e9c96eb.chunk.js",
     "static/js/2.3e9c96eb.chunk.js.map": "/NDPSongs-GraphQL/static/js/2.3e9c96eb.chunk.js.map",
     "index.html": "/NDPSongs-GraphQL/index.html",
-    "precache-manifest.896aa53a42650ee29cdaf359989c672d.js": "/NDPSongs-GraphQL/precache-manifest.896aa53a42650ee29cdaf359989c672d.js",
+    "precache-manifest.88f629fecb257c02bfb4d154c34ad6f2.js": "/NDPSongs-GraphQL/precache-manifest.88f629fecb257c02bfb4d154c34ad6f2.js",
     "service-worker.js": "/NDPSongs-GraphQL/service-worker.js",
     "static/css/main.fe3db0c7.chunk.css.map": "/NDPSongs-GraphQL/static/css/main.fe3db0c7.chunk.css.map"
   }
